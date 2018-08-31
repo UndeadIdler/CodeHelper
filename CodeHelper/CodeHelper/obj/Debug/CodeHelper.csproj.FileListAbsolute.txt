@@ -1,0 +1,55 @@
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.pdb
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\bin\Debug\DataAccess.dll
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\bin\Debug\DataAccess.pdb
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Properties.Resources.resources
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.GenerateResource.Cache
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.exe
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.pdb
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe.config
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.MainFrm.resources
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildDALandBLL.resources
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildEntity.resources
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\bin\Debug\ICSharpCode.TextEditor.dll
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\bin\Debug\ICSharpCode.TextEditor.pdb
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Parameters.resources
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.FinalText.resources
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildProc.resources
+C:\VS 2012\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csprojResolveAssemblyReference.cache
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe.config
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.pdb
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\bin\Debug\DataAccess.pdb
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\bin\Debug\ICSharpCode.TextEditor.pdb
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csprojResolveAssemblyReference.cache
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildDALandBLL.resources
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildEntity.resources
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildProc.resources
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.FinalText.resources
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.MainFrm.resources
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Parameters.resources
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Properties.Resources.resources
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.GenerateResource.cache
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.CoreCompileInputs.cache
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.CopyComplete
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.exe
+C:\visual studio 2017\Projects\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.pdb
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe.config
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\bin\Debug\CodeHelper.pdb
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\bin\Debug\ICSharpCode.TextEditor.dll
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\bin\Debug\DataAccess.pdb
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\bin\Debug\ICSharpCode.TextEditor.pdb
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csprojAssemblyReference.cache
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildDALandBLL.resources
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildEntity.resources
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.BuildProc.resources
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.FinalText.resources
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.MainFrm.resources
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Parameters.resources
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Properties.Resources.resources
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.GenerateResource.cache
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.CoreCompileInputs.cache
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.CopyComplete
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.exe
+D:\MyProject\CodeHelper\CodeHelper\CodeHelper\obj\Debug\CodeHelper.pdb

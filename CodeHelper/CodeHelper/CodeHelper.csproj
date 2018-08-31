@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DFFCC9B3-09D2-4D14-B847-0CAD60FD2058}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodeHelper</RootNamespace>
+    <AssemblyName>CodeHelper</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DataAccess">
+      <HintPath>..\..\..\SmoApp\SmoApp\DataAccess\bin\Debug\DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.TextEditor">
+      <HintPath>..\..\..\..\MyTools\CodeHelperOld\CodeHelper\CodeHelper\bin\Debug\ICSharpCode.TextEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuildDALandBLL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BuildDALandBLL.Designer.cs">
+      <DependentUpon>BuildDALandBLL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuildEntity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BuildEntity.Designer.cs">
+      <DependentUpon>BuildEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuildProc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BuildProc.Designer.cs">
+      <DependentUpon>BuildProc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DALCommandType.cs" />
+    <Compile Include="Condition.cs" />
+    <Compile Include="Configs.cs" />
+    <Compile Include="ConnectionString.cs" />
+    <Compile Include="DALText.cs" />
+    <Compile Include="DataBase.cs" />
+    <Compile Include="DealData.cs" />
+    <Compile Include="DealParameter.cs" />
+    <Compile Include="DLLName.cs" />
+    <Compile Include="EntityText.cs" />
+    <Compile Include="EntityType.cs" />
+    <Compile Include="FinalParameter.cs" />
+    <Compile Include="FinalText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FinalText.Designer.cs">
+      <DependentUpon>FinalText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinalTexts.cs" />
+    <Compile Include="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrm.Designer.cs">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyInfo.cs" />
+    <Compile Include="Notes.cs" />
+    <Compile Include="OperationType.cs" />
+    <Compile Include="OriginalParameter.cs" />
+    <Compile Include="Parameters.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Parameters.Designer.cs">
+      <DependentUpon>Parameters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcText.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResultType.cs" />
+    <Compile Include="Singleton.cs" />
+    <EmbeddedResource Include="BuildDALandBLL.resx">
+      <DependentUpon>BuildDALandBLL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuildEntity.resx">
+      <DependentUpon>BuildEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuildProc.resx">
+      <DependentUpon>BuildProc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinalText.resx">
+      <DependentUpon>FinalText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrm.resx">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parameters.resx">
+      <DependentUpon>Parameters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
